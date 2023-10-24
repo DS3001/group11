@@ -22,7 +22,7 @@
 
 ### Eva Massarelli
 
-* na
+* Data wrangled, specifically cleaned age, year, and wrkstat. Offered support for cleaning the other variables. Wrote "Data Cleaning" section in the "ProjectReport."
 
 ### Anjali Mehta
 
