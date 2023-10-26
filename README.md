@@ -18,7 +18,7 @@
 
 ### Michael Hijduk
 
-* na
+* Data visualizations and analysis for research question 1. Wrote my respective parts of the summary, conclusion, and results. Did final formatting and editing for the report.
 
 ### Eva Massarelli
 
@@ -33,3 +33,4 @@
 * na
   
 ## Issues
+No known issues at this time.
